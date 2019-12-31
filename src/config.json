@@ -1,0 +1,7 @@
+{
+  "HDFS_host": "www.example.com",
+  "HDFS_port": "www.example.com",
+  "logger_config": {
+    "path": "c:/pyspark"
+  }
+}

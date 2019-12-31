@@ -1,0 +1,44 @@
+2019-12-31 11:02:20,934 - __main__ - INFO - info message
+2019-12-31 11:02:20,935 - __main__ - WARNING - warn message
+2019-12-31 11:02:20,935 - __main__ - ERROR - error message
+2019-12-31 11:02:20,935 - __main__ - CRITICAL - critical message
+2019-12-31 11:02:20,946 - jobs.wordcount.wordcount - INFO - Inside Wordcount
+2019-12-31 11:02:20,947 - jobs.wordcount.wordcount - INFO - Executing Wordcount run
+2019-12-31 12:41:30,341 - __main__ - INFO - info message
+2019-12-31 12:41:30,341 - __main__ - WARNING - warn message
+2019-12-31 12:41:30,341 - __main__ - ERROR - error message
+2019-12-31 12:41:30,341 - __main__ - CRITICAL - critical message
+2019-12-31 12:43:06,468 - __main__ - INFO - info message
+2019-12-31 12:43:06,468 - __main__ - WARNING - warn message
+2019-12-31 12:43:06,468 - __main__ - ERROR - error message
+2019-12-31 12:43:06,468 - __main__ - CRITICAL - critical message
+2019-12-31 12:43:06,488 - jobs.badvalues.badvalues - INFO - Executing run
+2019-12-31 12:44:47,762 - __main__ - INFO - info message
+2019-12-31 12:44:47,762 - __main__ - WARNING - warn message
+2019-12-31 12:44:47,762 - __main__ - ERROR - error message
+2019-12-31 12:44:47,763 - __main__ - CRITICAL - critical message
+2019-12-31 12:44:47,803 - jobs.badvalues.badvalues - INFO - Executing run
+2019-12-31 13:15:11,840 - __main__ - INFO - info message
+2019-12-31 13:15:11,840 - __main__ - WARNING - warn message
+2019-12-31 13:15:11,840 - __main__ - ERROR - error message
+2019-12-31 13:15:11,841 - __main__ - CRITICAL - critical message
+2019-12-31 13:15:11,874 - jobs.wordcount.wordcount - INFO - Inside Wordcount
+2019-12-31 13:15:11,874 - jobs.wordcount.wordcount - INFO - Executing Wordcount run
+2019-12-31 13:19:11,855 - __main__ - INFO - info message
+2019-12-31 13:19:11,856 - __main__ - WARNING - warn message
+2019-12-31 13:19:11,856 - __main__ - ERROR - error message
+2019-12-31 13:19:11,856 - __main__ - CRITICAL - critical message
+2019-12-31 13:19:11,891 - jobs.wordcount.wordcount - INFO - Inside Wordcount
+2019-12-31 13:19:11,892 - jobs.wordcount.wordcount - INFO - Executing Wordcount run
+2019-12-31 13:21:49,558 - __main__ - INFO - info message
+2019-12-31 13:21:49,558 - __main__ - WARNING - warn message
+2019-12-31 13:21:49,558 - __main__ - ERROR - error message
+2019-12-31 13:21:49,558 - __main__ - CRITICAL - critical message
+2019-12-31 13:21:49,588 - jobs.wordcount.wordcount - INFO - Inside Wordcount
+2019-12-31 13:21:49,588 - jobs.wordcount.wordcount - INFO - Executing Wordcount run
+2019-12-31 13:56:02,824 - __main__ - INFO - info message
+2019-12-31 13:56:02,824 - __main__ - WARNING - warn message
+2019-12-31 13:56:02,824 - __main__ - ERROR - error message
+2019-12-31 13:56:02,824 - __main__ - CRITICAL - critical message
+2019-12-31 13:56:02,834 - jobs.wordcount.wordcount - INFO - Inside Wordcount
+2019-12-31 13:56:02,835 - jobs.wordcount.wordcount - INFO - Executing Wordcount run
